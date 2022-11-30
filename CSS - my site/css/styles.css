@@ -1,0 +1,28 @@
+.top-cont{
+    height: 200px;
+    width: 200px;
+    background-color: aliceblue;
+    border: 10px solid black;
+    padding: 20px;
+
+}
+
+.middle-cont{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: 20px solid black;
+    margin-left: 260px;
+}
+
+.bottom-cont{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    border: 10px solid black;
+    margin-left: 500px;
+}
+
+.top-cloud {
+    position: absolute;
+}
